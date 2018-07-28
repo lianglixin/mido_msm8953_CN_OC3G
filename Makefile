@@ -1,8 +1,8 @@
 VERSION = 3
 PATCHLEVEL = 18
-SUBLEVEL = 110
-EXTRAVERSION = -180527
-NAME = Diseased Newt
+SUBLEVEL = 
+EXTRAVERSION = 
+NAME = Saurik Kernel
 
 # *DOCUMENTATION*
 # To see a list of typical targets execute "make help"
